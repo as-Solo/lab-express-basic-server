@@ -3,7 +3,7 @@
         "title": "Ubication Project",
         "description": "Developed a tool to identify optimal locations by analyzing proximity to amenities using real-time location data and map APIs.",
         "image": "https://raw.githubusercontent.com/as-Solo/Proyecto_Ubicacion/main/img/portada_Readme.jpg",
-        "github": "https://github.com/exampleuser/examplerepo",
+        "github": "https://github.com/as-Solo/Proyecto_Ubicacion",
         "deployed": "",
         "techStack": ["Python", "Pandas", "Numpy", "Kepler.gl"]
     },
@@ -11,9 +11,9 @@
         "title": "Bombs",
         "description": "Simple Bomberman game, built with vanilla JavaScript, HTML, and CSS.",
         "image": "https://raw.githubusercontent.com/as-Solo/Bombs/refs/heads/main/sketches/Inicio.jpg",
-        "github": "https://github.com/exampleuser/examplerepo",
+        "github": "https://github.com/as-Solo/Bombs",
         "deployed": "https://as-solo.github.io/Bombs/",
-        "techStack": ["React", "Node", "JSON Server", "React Testing Library"]
+        "techStack": ["HTM", "CSS", "JavaScript"]
     },
     {
         "title": "TaskFlow",
@@ -27,7 +27,7 @@
         "title": "Weather Dashboard",
         "description": "ETL Project with data handling from both, external sources (scraping) and internal sources (data.json). Managed using Python | Pandas",
         "image": "https://github.com/as-Solo/Estrella_Michelin_2019/raw/main/img/portada_Michelin.jpg",
-        "github": "https://github.com/exampleuser/examplerepo",
+        "github": "https://github.com/as-Solo/Estrella_Michelin_2019",
         "deployed": "http://example.com",
         "techStack": ["Python", "Pandas", "Plotly", "BeautifulSoap"]
     }
